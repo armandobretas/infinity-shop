@@ -6,9 +6,9 @@
  <img src="https://i.ibb.co/zVjh3Sz/Be-Funky-collage-1.png" alt="Print" />
 </p>
 
-<h1 align="center">
+<h3>
   Tecnologias utilizadas
-</h1>
+</h3>
 <p align="center">
 
 - [React Native](https://facebook.github.io/react-native/)
